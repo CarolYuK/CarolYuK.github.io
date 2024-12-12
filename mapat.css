@@ -1,0 +1,44 @@
+body
+{
+    background-image: url(dpapiro.PNG);
+    background-size: cover;
+    max-width: 400px;
+}
+.cont
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.reglas
+{
+    color: snow;
+    font-weight: bold;
+    font-size: x-large;
+}
+.contendor
+{
+    display: flex;
+    flex-direction: row;
+}
+h2
+{
+    color: seashell
+}
+h5
+{
+    margin-left: 21%;
+    margin-right: 20%;
+    margin-top: 9%;
+    color: maroon;
+}
+.caja
+{
+    width: 70%;
+    height: 16%;
+    background-image: url(box.avif);
+    background-size: cover;
+
+
+    
+}
