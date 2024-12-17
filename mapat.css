@@ -34,8 +34,8 @@ h5
 }
 .caja
 {
-    width: 50%;
-    height: 16%;
+    width: 150px;
+    height: 125px;
     background-image: url(box.avif);
     background-size: cover;
 }
