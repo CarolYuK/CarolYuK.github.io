@@ -26,6 +26,7 @@ h2
 }
 h5
 {
+    align-items: center;
     text-align: center;
     margin-left: 21%;
     margin-right: 20%;
@@ -37,7 +38,4 @@ h5
     height: 16%;
     background-image: url(box.avif);
     background-size: cover;
-    align-items: center;
-
-    
 }
